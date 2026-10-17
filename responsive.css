@@ -117,48 +117,30 @@
         height: 800px;
     }
 
- .personal_information_1 h2{
-    font-size: 50px;
+    .personal_information_2 .name{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+ .personal_information_2 .name h2{
+    font-size: 25px;
     line-height: 1;
    }
-   .personal_information_1 span{
-    color: #0000ff;
-    font-size: 35px;
-   }
-   .personal_information_1 h3{
+   .personal_information_2 .name span{
     font-size: 20px;
-    line-height: 1.7;
-    color: #222222;
-    margin-top: 25px;
    }
-   .personal_information_1 p{
-    font-size: 20px;
+   .personal_information_2 .name h3{
+    font-size: 15px;
     line-height: 1.7;
-    color: #222222;
+    margin-top: 15px;
+   }
+   .personal_information_2 .name p{
+    font-size: 15px;
+    line-height: 1.7;
     margin-bottom: 20px;
    }
-
- .personal_information_2 h2{
-    font-size: 50px;
-    line-height: 1;
-   }
-   .personal_information_2 span{
-    color: #0000ff;
-    font-size: 35px;
-   }
-   .personal_information_2 h3{
-    font-size: 20px;
-    line-height: 1.7;
-    color: #222222;
-    margin-top: 25px;
-   }
-   .personal_information_2 p{
-    font-size: 20px;
-    line-height: 1.7;
-    color: #222222;
-    margin-bottom: 20px;
-   }
-
  .personal_information_3 h2{
     font-size: 50px;
     line-height: 1;

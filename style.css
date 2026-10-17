@@ -159,25 +159,28 @@ background-position: center;
   justify-content: space-between;
   padding: 0px 70px;
  }
- .personal_information_2{
+  .personal_information_2{
   flex-basis: 50%;
  }
- .personal_information_2 h2{
-  font-size: 70px;
+ .personal_information_2 .name h2{
+  font-size: 40px;
   line-height: 1;
+  color: blue;
  }
- .personal_information_2 span{
-  color: #0000ff;
-  font-size: 55px;
+
+ .personal_information_2 .name span{
+  color: deeppink;
+  font-size: 35px;
  }
- .personal_information_2 h3{
+
+ .personal_information_2 .name h3{
   font-size: 20px;
   line-height: 1.7;
-  color: #222222;
+  color: red;
   margin-top: 25px;
  }
 
- .personal_information_2 p{
+ .personal_information_2 .name p{
   font-size: 20px;
   line-height: 1.7;
   color: #222222;
