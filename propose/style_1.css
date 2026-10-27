@@ -30,3 +30,9 @@
     color: blue;
     text-decoration: none;
 }
+#section .container .box .gift{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+}
