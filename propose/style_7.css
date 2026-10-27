@@ -11,20 +11,17 @@
 }                                         
 #section .container .box_img{
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 450px;
-    height: 100%;
     position: relative;
 }   
                                       
 #section .container .box_img img{
-    height: 50%;
-    width: 50%;
+    height: 250px;
+    width: 350px;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 60px;
+    padding-top: 30%;
     margin-top: 10px;
-}                                         
+}                   
